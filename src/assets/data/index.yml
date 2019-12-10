@@ -12,6 +12,7 @@ assets:
     appletouch: path/to/favicon/appletouch
     manifest: path/to/favicon/manifest
   stylesheets:
+  - "https://fonts.googleapis.com/css?family=Oswald&display=swap"
   - assets/styles/all.css
   scripts:
   - assets/scripts/all.js
